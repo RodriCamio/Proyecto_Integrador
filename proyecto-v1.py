@@ -1,3 +1,0 @@
-'''
-Primer parte del programa
-'''
